@@ -1,0 +1,11 @@
+WWW-DeepL
+
+This module provides a quick-and-easy interface to the DeepL translation engine, which provides a JSON API for paid users.
+
+It also provides a command-line interface to the engine; under Windows, the command-line interface can take its
+source text from the Clipboard, translate it, and paste it back to the Clipboard. This makes it easy to integrate
+with basically any toolset without the need for a plugin.
+
+Copyright (C) 2018 Michael Roberts
+
+
